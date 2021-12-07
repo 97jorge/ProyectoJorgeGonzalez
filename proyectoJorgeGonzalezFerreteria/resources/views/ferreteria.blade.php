@@ -21,7 +21,7 @@
 <div>
     <h1>ferreteria jorge</h1>
 </div>
-    <h2>Aqui encuentras todo lo que necesitas</h2>
+    <h2>Aqui encuentras todo lo que necesitas desde un clavo hasta una canaleta</h2>
 
 </body>
 </html>
